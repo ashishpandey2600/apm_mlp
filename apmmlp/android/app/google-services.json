@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "920244756124",
+    "project_id": "mlptechster-a33e2",
+    "storage_bucket": "mlptechster-a33e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920244756124:android:f66f04d4af5817faefd759",
+        "android_client_info": {
+          "package_name": "com.example.mlptechster_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920244756124-p2l5bdd4o9m2f5v5lhsv8j29rsmbnfv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWYcO29KPTT06oK08tVFlqtyT6ejnOLzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920244756124-p2l5bdd4o9m2f5v5lhsv8j29rsmbnfv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920244756124-9qbo3hfn835fso1fsnrjod3cbvmr0v01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mlptechsterWeb.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920244756124:android:31d2b36f602d56b2efd759",
+        "android_client_info": {
+          "package_name": "com.printmlp.mlpsolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920244756124-p2l5bdd4o9m2f5v5lhsv8j29rsmbnfv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWYcO29KPTT06oK08tVFlqtyT6ejnOLzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920244756124-p2l5bdd4o9m2f5v5lhsv8j29rsmbnfv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920244756124-9qbo3hfn835fso1fsnrjod3cbvmr0v01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mlptechsterWeb.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
